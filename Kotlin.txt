@@ -1,3 +1,5 @@
 Sebastian Tabares - Evidencia Herramienta de versionamiento git
 
 ficha: 2627018
+
+Ejemplo de adición de cambios al archivos para probar sincronizacion de repositorio remoto :D
